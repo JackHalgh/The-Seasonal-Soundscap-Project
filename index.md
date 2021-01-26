@@ -20,6 +20,7 @@ The pond in question, Old Sneed Park Pond, is located in a little oasis of green
 The pond (or lake if you prefer) is ~100 years old and was restored in 2008 by local Friends of Old Sneed Park volunteers. 
 
 ![Old Sneed Park restoration](https://user-images.githubusercontent.com/74665965/105919636-eb281700-602d-11eb-940b-d235f0dfb06e.png)
+The restoration of Old Sneed Park. Photo credit: Friends of Old Sneed Park. 
 
 Excess sediment was removed, and some trees were coppiced to let more light in. 
 
