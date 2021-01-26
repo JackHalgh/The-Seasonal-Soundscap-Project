@@ -1,12 +1,9 @@
-theme: jekyll-theme-cayman
 title: The Seasonal Soundscape Project 
 
 
-## Welcome to GitHub Pages
+## Welcome to The Seasonal Soundscape Project
 
-You can use the [editor on GitHub](https://github.com/JackHalgh/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Join me on a journey of gorgeous nature, local history & bizarre underwater sounds as I follow a year in the life of a pond in Bristol, UK.  
 
 ### Markdown
 
