@@ -1,4 +1,4 @@
-### The Seasonal Soundscape Project
+### Welcome to The Seasonal Soundscape Project
 
 Join me on a journey of gorgeous nature, local history & bizarre underwater sounds as I follow a year in the life of a pond in Bristol, UK.  
 
@@ -12,7 +12,7 @@ Much like an ornithologist can identify bird species by listening to their calls
 - Weather: Light showers, overcast 
 - Audio: A few sounds produced by aquatic insects but not much else...
 
-[https://soundcloud.com/wildaudiojack/seasonal-soundscape-project-january](url)
+https://soundcloud.com/wildaudiojack/seasonal-soundscape-project-january
 
 
 
