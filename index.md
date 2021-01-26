@@ -2,6 +2,7 @@
 
 Join me on a journey of gorgeous nature, local history & bizarre underwater sounds as I follow a year in the life of a pond in Bristol, UK.  
 
+```markdown
 ### January 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
