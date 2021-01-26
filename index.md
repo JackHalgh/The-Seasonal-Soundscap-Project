@@ -15,3 +15,4 @@ https://soundcloud.com/wildaudiojack/sets/seasonal-soundscape-project
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 mkdir assets
+cp path/to/Equipment.jpg ./assets/
