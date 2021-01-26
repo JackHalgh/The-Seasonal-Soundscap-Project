@@ -6,13 +6,13 @@ Much like an ornithologist can identify bird species by listening to their calls
 
 ### January 
 
+![EsX1cktXYAUkKFA](https://user-images.githubusercontent.com/74665965/105878385-e6953b80-5ff8-11eb-9ccf-b1d6d9aa8574.jpg)
+
 Temp: 7C
 Weather: Light showers, overcast 
 Audio: A few sounds produced by aquatic insects but not much else...
 
-![Equipment](https://user-images.githubusercontent.com/74665965/105877931-68d13000-5ff8-11eb-9be6-a970ac7366b6.jpg)
-
 https://soundcloud.com/wildaudiojack/sets/seasonal-soundscape-project
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
