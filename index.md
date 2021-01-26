@@ -1,6 +1,7 @@
 ### Welcome to The Seasonal Soundscape Project
 
 ![Old_Sneed_Park_Main](https://user-images.githubusercontent.com/74665965/105912814-ed857380-6023-11eb-8e80-dc85d9b9e038.jpg)
+Old Sneed Park pond. Photo credit: Bristol Barkers
 
 Join me on a journey of gorgeous nature, local history & bizarre underwater sounds as I follow a year in the life of a pond in Bristol, UK.  
 
