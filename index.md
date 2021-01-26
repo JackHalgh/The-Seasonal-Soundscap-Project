@@ -4,7 +4,9 @@ Join me on a journey of gorgeous nature, local history & bizarre underwater soun
 
 Much like an ornithologist can identify bird species by listening to their calls in a woodland, it's possible to listen to the different sounds made by aquatic insects, fish, amphibians & even aquatic plants in a pond to infer biological activity and richness.
 
-[Go to January section](### January)
+[Equipment](### Equipment)
+
+[January](### January)
 
 
 ### January 
@@ -18,6 +20,10 @@ Much like an ornithologist can identify bird species by listening to their calls
 https://soundcloud.com/wildaudiojack/seasonal-soundscape-project-january
 
 
+#### Equipment 
 
+I'm going to be recording the underwater sounds in the pond using a variety of hydrophones (underwater microphones, pictured below). 
+
+Ponds are packed full of all kinds of bizarre popping & scratching sounds, check it out: https://soundcloud.com/wildaudiojack
 
 
