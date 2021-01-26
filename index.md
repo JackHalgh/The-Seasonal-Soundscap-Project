@@ -1,7 +1,5 @@
 ### Welcome to The Seasonal Soundscape Project
 
-![Logo3](https://user-images.githubusercontent.com/74665965/105901449-4d285280-6015-11eb-880f-f15c170dc982.png)
-
 Join me on a journey of gorgeous nature, local history & bizarre underwater sounds as I follow a year in the life of a pond in Bristol, UK.  
 
 Much like an ornithologist can identify bird species by listening to their calls in a woodland, it's possible to listen to the different sounds made by aquatic insects, fish, amphibians & even aquatic plants in a pond to infer biological activity and richness.
