@@ -4,6 +4,9 @@ Join me on a journey of gorgeous nature, local history & bizarre underwater soun
 
 Much like an ornithologist can identify bird species by listening to their calls in a woodland, it's possible to listen to the different sounds made by aquatic insects, fish, amphibians & even aquatic plants in a pond to infer biological activity and richness.
 
+[Go to January section](# January)
+
+
 ### January 
 
 - Temp: 7C
