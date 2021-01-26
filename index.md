@@ -9,7 +9,7 @@ I'm going to be recording the underwater sounds in Old Sneed Park pond in Bristo
 
 ![Equipment](https://user-images.githubusercontent.com/74665965/105877931-68d13000-5ff8-11eb-9be6-a970ac7366b6.jpg)
 
-Ponds are packed full of all kinds of bizarre popping & scratching sounds, check it out: https://soundcloud.com/wildaudiojack 
+Ponds are packed full of all kinds of bizarre popping & scratching sounds!
 
 Much like an ornithologist can identify bird species by listening to their calls in a woodland, it's possible to listen to the different sounds made by aquatic insects, fish, amphibians & even aquatic plants underwater in a pond to infer biological activity and richness.
 
@@ -18,6 +18,8 @@ Much like an ornithologist can identify bird species by listening to their calls
 The pond in question, Old Sneed Park Pond, is located in a little oasis of green space in the city (Bristol, UK) nestled between a busy road and housing estates. 
 
 The pond (or lake if you prefer) is ~100 years old and was restored in 2008 by local Friends of Old Sneed Park volunteers. 
+
+![Old Sneed Park restoration](https://user-images.githubusercontent.com/74665965/105919636-eb281700-602d-11eb-940b-d235f0dfb06e.png)
 
 Excess sediment was removed, and some trees were coppiced to let more light in. 
 
