@@ -1,5 +1,7 @@
 ### Welcome to The Seasonal Soundscape Project
 
+Hi there, my name is Jack Greenhalgh and I'm a PhD student at the University of Brisol. 
+
 Join me on a journey of gorgeous nature, local history & bizarre underwater sounds as I follow a year in the life of a pond in Bristol, UK.  
 
 Much like an ornithologist can identify bird species by listening to their calls in a woodland, it's possible to listen to the different sounds made by aquatic insects, fish, amphibians & even aquatic plants in a pond to infer biological activity and richness.
