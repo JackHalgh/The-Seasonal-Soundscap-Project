@@ -1,6 +1,6 @@
 ### Welcome to The Seasonal Soundscape Project
 
-Hi there, my name is Jack Greenhalgh and I'm a PhD student at the University of Brisol. 
+![Logo3](https://user-images.githubusercontent.com/74665965/105901449-4d285280-6015-11eb-880f-f15c170dc982.png)
 
 Join me on a journey of gorgeous nature, local history & bizarre underwater sounds as I follow a year in the life of a pond in Bristol, UK.  
 
