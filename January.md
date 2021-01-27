@@ -1,6 +1,6 @@
 ### January 
 
-https://github.com/JackHalgh/The-Seasonal-Soundscape-Project/blob/gh-pages/Jan%20Recording%20Github.wav
+[January](/Jan Recording Github.wav)
 
 - Temp: 7C
 - Weather: Light showers, overcast 
