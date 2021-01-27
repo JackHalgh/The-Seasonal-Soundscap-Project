@@ -1,7 +1,10 @@
-### Welcome to The Seasonal Soundscape Project!
+# Welcome to The Seasonal Soundscape Project!
 
-# contents 
-- [January](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/January)
+### Contents 
+- [All months](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/January)
+- [Local history](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/History)
+- [Wildlife](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/Wildlife)
+- [People](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/People)
 
 Join me on a journey of gorgeous nature, local history & bizarre underwater sounds as I follow a year in the life of a pond in Bristol, UK.  
 
