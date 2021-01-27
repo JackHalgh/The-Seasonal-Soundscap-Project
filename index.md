@@ -3,7 +3,7 @@
 Join me on a journey of gorgeous nature, local history & bizarre underwater sounds as I follow a year in the life of a pond in Bristol, UK.  
 
 - [Old Sneed Park Nature Reserve](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/Reserve)
-- [Recordings](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/January)
+- [Hydrophone recordings](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/January)
 - [Local history](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/History)
 - [Wildlife](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/Wildlife)
 
