@@ -1,11 +1,11 @@
 ## Welcome to The Seasonal Soundscape Project!
 
+Join me on a journey of gorgeous nature, local history & bizarre underwater sounds as I follow a year in the life of a pond in Bristol, UK.  
+
 - [Recordings](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/January)
 - [Local history](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/History)
 - [Wildlife](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/Wildlife)
 - [People](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/People)
-
-Join me on a journey of gorgeous nature, local history & bizarre underwater sounds as I follow a year in the life of a pond in Bristol, UK.  
 
 ![EsWojlSW8AEW9n1](https://user-images.githubusercontent.com/74665965/105917854-e2821180-602a-11eb-90ae-7ee3d057075e.png)
 Old Sneed Park pond. Photo credit: Friends of Old Sneed Park
