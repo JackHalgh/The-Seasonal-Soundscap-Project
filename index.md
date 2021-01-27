@@ -1,7 +1,7 @@
-# Welcome to The Seasonal Soundscape Project!
+## Welcome to The Seasonal Soundscape Project!
 
 ### Contents 
-- [All months](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/January)
+- [Recordings](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/January)
 - [Local history](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/History)
 - [Wildlife](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/Wildlife)
 - [People](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/People)
@@ -33,15 +33,3 @@ Excess sediment was removed, and some trees were coppiced to let more light in.
 Thanks to the efforts of local volunteers, the land (which also encompasses woodlands and meadows) was officially designated as a Local Nature Reserve on the 22nd of May 2020! 
 
 What secrets does this newly designated nature reserve hold? 
-
-### January 
-
-- Temp: 7C
-- Weather: Light showers, overcast 
-- Audio: A few sounds produced by aquatic insects but not much else...
-
-![EsX1cktXYAUkKFA](https://user-images.githubusercontent.com/74665965/105878385-e6953b80-5ff8-11eb-9ccf-b1d6d9aa8574.jpg)
-
-https://soundcloud.com/wildaudiojack/seasonal-soundscape-project-january
-
-
