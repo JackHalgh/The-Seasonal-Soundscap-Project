@@ -1,6 +1,5 @@
 ## Welcome to The Seasonal Soundscape Project!
 
-### Contents 
 - [Recordings](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/January)
 - [Local history](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/History)
 - [Wildlife](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/Wildlife)
