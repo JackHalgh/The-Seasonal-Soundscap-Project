@@ -1,7 +1,3 @@
-layout: page
-title: "January"
-permalink: /https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/January/
-
 ### January 
 
 - Temp: 7C
