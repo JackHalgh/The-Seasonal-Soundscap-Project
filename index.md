@@ -1,4 +1,4 @@
-## Welcome to The Seasonal Soundscape Project!
+# Welcome to The Seasonal Soundscape Project!
 
 Join me on a journey of gorgeous nature, local history & bizarre underwater sounds as I follow a year in the life of a pond in Bristol, UK.  
 
