@@ -17,4 +17,3 @@ Much like an ornithologist can identify bird species by listening to their calls
 
 
 ![Equipment](https://user-images.githubusercontent.com/74665965/105877931-68d13000-5ff8-11eb-9be6-a970ac7366b6.jpg)
-
