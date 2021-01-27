@@ -1,6 +1,6 @@
 # Old Sneed Park Nature Reserve 
 
-The pond in question, Old Sneed Park Pond, is located in a little oasis of green space in the city (Bristol, UK) nestled between a busy road and housing estates. 
+Old Sneed Park Nature Reserve is a little oasis of green in the city of Bristol nestled between a busy road and housing estates. 
 
 The pond (or lake if you prefer) is ~100 years old and was restored in 2008 by local Friends of Old Sneed Park volunteers. 
 
