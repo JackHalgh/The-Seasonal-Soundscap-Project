@@ -1,7 +1,4 @@
 theme: jekyll-theme-minimal
 title: The Seasonal Soundscape Project 
-color: black
-logo: /NewLogoBlue.png
 github:
   is_project_page: false
-link-color: black
