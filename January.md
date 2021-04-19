@@ -1,3 +1,13 @@
+### April   
+
+Listen here: [April soundscape recording](/Seasonal Soundscape Project - April.wav) 
+
+- Temp: 15C
+- Weather: Sunny
+- Audio: A riot of aquatic insect stridulation - spring is here!! No aquatic plants yet though...  
+
+![April](https://user-images.githubusercontent.com/74665965/115223108-5bad7400-a103-11eb-9c08-4ae0e3ee446c.jpg)
+
 ### March   
 
 Listen here: [March soundscape recording](/March 1 min recording.wav) 
