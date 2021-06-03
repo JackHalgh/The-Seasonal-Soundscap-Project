@@ -1,4 +1,4 @@
-## The Wonderful History of Old Sneed Park & its People
+## The Wonderful History of Old Sneed Park 
 
 ### Robert Bush & Bishop's Knoll War Hospital
 
