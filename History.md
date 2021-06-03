@@ -6,7 +6,7 @@
 
 Robert Bush (above) was born in Redland, Bristol in 1855. He was a British explorer, businessman, sportsman, and politician who was primarily known for his activities as a Legislative Council member in colonial Western Australia. 
 
-In his mid-40s, Bush returned to Bristol and took up residence at the Knoll, a late 19th centuary manor house (pictured below) overlooking Old Sneed Park. 
+In his mid-40s, Bush returned to Bristol and took up residence at the Knoll, a late 19th century manor house (pictured below) overlooking Old Sneed Park. 
 
 ![194343229_307565420914946_5513415835591940939_n](https://user-images.githubusercontent.com/74665965/120625872-01216a80-c45a-11eb-8755-901cd471c938.jpg)
 
