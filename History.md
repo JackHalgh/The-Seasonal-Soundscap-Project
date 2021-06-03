@@ -24,5 +24,5 @@ The grounds of the Knoll manor house were used to supply the kitchens of the hos
 
 The kitchen grounds, complete with a fully functioning orchard, can be explored to this day. 
 
-![Picture2](https://user-images.githubusercontent.com/74665965/120631262-96732d80-c45f-11eb-90b8-87b0ac73a4f3.png)
+![image](https://user-images.githubusercontent.com/74665965/120633097-a7bd3980-c461-11eb-92b5-5a0e5a2f48ef.png)
 
