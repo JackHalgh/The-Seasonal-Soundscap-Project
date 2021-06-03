@@ -4,8 +4,8 @@ Join me on a journey of gorgeous nature, local history & bizarre underwater soun
 
 #### Contents 
 
+- [Underwater pond recordings (Jan - May)](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/January)
 - [Old Sneed Park Nature Reserve](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/Reserve)
-- [Hydrophone recordings](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/January)
 - [History](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/History)
 - [Wildlife](https://jackhalgh.github.io/The-Seasonal-Soundscape-Project/Wildlife)
 
