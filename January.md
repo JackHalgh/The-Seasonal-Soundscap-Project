@@ -1,3 +1,13 @@
+### June   
+
+Listen here: [June soundscape recording](/June Recording.wav) 
+
+- Temp: 25C
+- Weather: Sunny.
+- Audio: Wow! All the band members are here and jamming! 
+
+![June OSP](https://user-images.githubusercontent.com/74665965/122210503-a0ece880-ce9d-11eb-8d1a-e4d643c9479d.jpg)
+
 ### May   
 
 Listen here: [May soundscape recording](/May Recording.wav) 
