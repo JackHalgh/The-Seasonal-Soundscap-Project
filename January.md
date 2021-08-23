@@ -1,3 +1,23 @@
+### August   
+
+Listen here: [August soundscape recording](/June Recording.wav) 
+
+- Temp: 24C
+- Weather: Sunny.
+- Audio: Wow! All of the band members are here and jamming together. Water boatmen can be heard stridulating over the constant ticking of aquatic plants.
+
+![August](https://user-images.githubusercontent.com/74665965/130520414-f2a9be55-42fc-400b-a242-ea3bdb5a7055.jpg)
+
+### July   
+
+Listen here: [July soundscape recording](/July - Old Sneed Park.wav) 
+
+- Temp: 22C
+- Weather: Sunny.
+- Audio: It seems those water boatman are always at it...
+
+![July](https://user-images.githubusercontent.com/74665965/130520279-4314e2b4-6c46-48cc-8808-76b558cb604d.jpg)
+
 ### June   
 
 Listen here: [June soundscape recording](/June Recording.wav) 
